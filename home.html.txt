@@ -1,2 +1,1 @@
 Hello World !
-This is the 2nd line in the home file
